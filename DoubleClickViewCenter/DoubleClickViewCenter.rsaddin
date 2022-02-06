@@ -6,7 +6,7 @@
 
   <ApplicationId>open.ZaidAljubouri.DoubleClickViewCenter</ApplicationId>
   
-  <DisplayName>Double click view center</DisplayName>
+  <DisplayName>Double click to view center</DisplayName>
   <DisplayVersion>1.0</DisplayVersion>
   <Description>Double click anywhere in the 3D-view to center the view around the point where your mouse cursor is pointing. Holding down SHIFT while double clicking will instead zoom in to fit the object you have selected to the screen.</Description> 
 
